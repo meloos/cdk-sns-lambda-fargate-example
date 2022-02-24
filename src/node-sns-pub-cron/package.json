@@ -1,0 +1,17 @@
+{
+  "name": "sns-pub-cron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1080.0",
+    "aws-sns-publish": "^4.0.0",
+    "node-cron": "^3.0.0"
+  }
+}
